@@ -13,4 +13,5 @@ model = list(map(slr, x))
 plt.plot(x, model)
 
 plt.scatter(x,y)
+
 plt.show()
